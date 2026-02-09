@@ -137,6 +137,9 @@ Este procedimento descreve as etapas para:
 - Conferência da **apuração do ISSQN**
 - Emissão da **guia de recolhimento** no Portal da Prefeitura competente
 
+> <img width="1125" height="503" alt="image" src="https://github.com/user-attachments/assets/01aa69d4-116e-42a5-816c-e05dc36289b0" />
+
+
 ### 📄 Documentação de Referência
 
 - [PDF – Exemplo de Guia de Recolhimento do ISSQN]  
