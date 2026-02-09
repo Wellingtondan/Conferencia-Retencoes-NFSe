@@ -89,11 +89,18 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
     - IRRF  
     - INSS  
     - ISS
+   
+### 📄 Caminho do relatório
+
+> <img width="1260" height="739" alt="image" src="https://github.com/user-attachments/assets/8e9e4aa1-31d9-4279-b026-152a23c109c4" />
+
 
 ### 📊 Exemplo de Relatório
 
-<img width="689" height="376" alt="Relatório de Impostos Retidos" src="https://github.com/user-attachments/assets/f4103718-d627-4dfd-af38-c8bf7dfcdbf9" />
+> <img width="689" height="376" alt="Relatório de Impostos Retidos" src="https://github.com/user-attachments/assets/f4103718-d627-4dfd-af38-c8bf7dfcdbf9" />
 
 ---
+
+
 
 
