@@ -151,6 +151,7 @@ Este procedimento descreve as etapas para:
 
 `Guia de Recolhimento do ISSQN - FS Filial ISSQN _ Tomador Araras 01_2026`
 
+> <img width="795" height="397" alt="image" src="https://github.com/user-attachments/assets/361cee32-ca24-4918-b26e-ee9da02a8e1d" />
 
 
 
