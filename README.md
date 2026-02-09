@@ -17,6 +17,9 @@ Este documento descreve o procedimento para **conferência das retenções de im
 - Salvar em PDF  
 - Nome do arquivo: **Relatório Prisma Retidos 01.2026**
 
+> <img width="1128" height="235" alt="image" src="https://github.com/user-attachments/assets/b90335c0-ab2e-4099-9e2e-63de5e7ea92d" />
+
+
 ### 💾 Local de Salvamento
 
 ```
