@@ -6,7 +6,7 @@ Este documento descreve o procedimento para **conferência das retenções de im
 
 ## 📌 Acesso ao PRISMA
 
-## 🧾 Conferência de Serviços Prestados
+## 🧾 Conferência de Serviços Tomados
 
 **Caminho no sistema:**
 
