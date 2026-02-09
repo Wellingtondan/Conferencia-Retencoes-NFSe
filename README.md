@@ -98,21 +98,43 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 
 ---
 
+## 🧾 Conferência de Serviços Prestados
 
-### Conferência de Serviços Prestados 
+### 📊 Livro de Serviços – Modelo 1
 
-Relatórios - Livros Fiscais - Livro de Serviços - Modelo 1
+**Caminho no sistema:**
 
-> <img width="1062" height="678" alt="image" src="https://github.com/user-attachments/assets/bc31b9dd-a50f-4e40-bce1-0b66742516f6" />
+- Relatórios  
+  - Livros Fiscais  
+    - Livro de Serviços – Modelo 1
 
-São os serviços prestados pela Loja em manutenção de ferramentas e máquinas.
+<img width="1062" height="678" alt="Livro de Serviços - Modelo 1" src="https://github.com/user-attachments/assets/bc31b9dd-a50f-4e40-bce1-0b66742516f6" />
 
+### ℹ️ Observações
 
-### Conferência e geração de Guia ISSQN - Portal da Prefeitura
+- Este relatório contempla **os serviços prestados pela Loja**, referentes a:
+  - Manutenção de ferramentas  
+  - Manutenção de máquinas
+- As informações servem de base para:
+  - Conferência do **ISSQN devido**
+  - Validação dos lançamentos no **Portal da Prefeitura**
 
-> [PDF EXEMPLO - GUIA DE RECOLHIMENTO]
+---
 
-> [PDF EXEMPLO - RELATÓRIO DE LANÇAMENTOS/LIVRO]
+## 🏛️ Conferência e Geração da Guia de ISSQN  
+**Portal da Prefeitura**
+
+Este procedimento descreve as etapas para:
+
+- Verificação dos **serviços prestados**
+- Conferência da **apuração do ISSQN**
+- Emissão da **guia de recolhimento** no Portal da Prefeitura competente
+
+### 📄 Documentação de Referência
+
+- [PDF – Exemplo de Guia de Recolhimento do ISSQN]  
+- [PDF – Exemplo de Relatório de Lançamentos / Livro]
+
 
 
 
