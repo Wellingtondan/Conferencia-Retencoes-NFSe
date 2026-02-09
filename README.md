@@ -75,9 +75,8 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 
 - De **01/01/2026** a **31/01/2026**
 
-### ⏰ Vencimento
+<img width="390" height="151" alt="image" src="https://github.com/user-attachments/assets/053af626-b06e-4d17-81cb-3cfddb9de8ba" />
 
-- Impostos com vencimento **até o dia 20 de cada mês**
 
 ---
 
@@ -91,6 +90,10 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
     - IRRF  
     - INSS  
     - ISS
+   
+### ⏰ Vencimento
+
+- Impostos com vencimento **até o dia 20 de cada mês**
    
 ### 📄 Caminho do relatório
 
