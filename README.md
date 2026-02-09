@@ -133,7 +133,7 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 
 Este procedimento descreve as etapas para:
 
-- Verificação dos **serviços prestados**
+- Verificação dos **Serviços Prestados** e **Serviços Tomados**
 - Conferência da **apuração do ISSQN**
 - Emissão da **guia de recolhimento** no Portal da Prefeitura competente
 
@@ -144,6 +144,12 @@ Este procedimento descreve as etapas para:
 `Guia de Recolhimento do ISSQN - FS Filial ISSQN _ Prestador Araras 01_2026`
 
 > <img width="795" height="373" alt="image" src="https://github.com/user-attachments/assets/6f82af9f-6b56-4d83-bbdc-5762ea90971a" />
+
+`Relatório de Lançamentos / Livro - FS Filial ISS Relatorio Tomador Araras 01_2026`
+
+> <img width="1125" height="503" alt="image" src="https://github.com/user-attachments/assets/aa9e558e-c1ce-4562-98e6-d81bbd6b1712" />
+
+`Guia de Recolhimento do ISSQN - FS Filial ISSQN _ Tomador Araras 01_2026`
 
 
 
