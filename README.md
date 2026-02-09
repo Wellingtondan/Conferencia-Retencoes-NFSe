@@ -137,13 +137,16 @@ Este procedimento descreve as etapas para:
 - Conferência da **apuração do ISSQN**
 - Emissão da **guia de recolhimento** no Portal da Prefeitura competente
 
+`Relatório de Lançamentos / Livro - FS Filial ISS Relatorio Prestador Araras 01_2026`
+
 > <img width="1125" height="503" alt="image" src="https://github.com/user-attachments/assets/01aa69d4-116e-42a5-816c-e05dc36289b0" />
 
+`Guia de Recolhimento do ISSQN - FS Filial ISSQN _ Prestador Araras 01_2026`
 
-### 📄 Documentação de Referência
+> <img width="795" height="373" alt="image" src="https://github.com/user-attachments/assets/6f82af9f-6b56-4d83-bbdc-5762ea90971a" />
 
-- [PDF – Exemplo de Guia de Recolhimento do ISSQN]  
-- [PDF – Exemplo de Relatório de Lançamentos / Livro]
+
+
 
 
 
