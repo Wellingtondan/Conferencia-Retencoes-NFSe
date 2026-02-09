@@ -99,5 +99,24 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 ---
 
 
+### Conferência de Serviços Prestados 
+
+Relatórios - Livros Fiscais - Livro de Serviços - Modelo 1
+
+> <img width="1062" height="678" alt="image" src="https://github.com/user-attachments/assets/bc31b9dd-a50f-4e40-bce1-0b66742516f6" />
+
+São os serviços prestados pela Loja em manutenção de ferramentas e máquinas.
+
+
+### Conferência e geração de Guia ISSQN - Portal da Prefeitura
+
+> [PDF EXEMPLO - GUIA DE RECOLHIMENTO]
+
+> [PDF EXEMPLO - RELATÓRIO DE LANÇAMENTOS/LIVRO]
+
+
+
+
+
 
 
