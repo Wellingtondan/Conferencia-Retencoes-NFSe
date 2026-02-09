@@ -10,8 +10,7 @@ Este documento descreve o procedimento para **conferência das retenções de im
 
 - Contabilidade  
   - Contabilidade / Fiscal  
-    - Retenção de Impostos  
-      - Serviços Tomados
+    - Retenção de Impostos - Serviços Tomados
 
 ### 📄 Geração do Relatório
 
@@ -83,9 +82,7 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 
 - Relatórios Auxiliares Mensais  
   - Impostos Retidos:
-    - CSLL  
-    - COFINS  
-    - PIS  
+    - COFINS/PIS/CSLL
     - IRRF  
     - INSS  
     - ISS
