@@ -6,6 +6,8 @@ Este documento descreve o procedimento para **conferência das retenções de im
 
 ## 📌 Acesso ao PRISMA
 
+## 🧾 Conferência de Serviços Prestados
+
 **Caminho no sistema:**
 
 - Contabilidade  
@@ -41,7 +43,7 @@ FS_Matriz > 2026 > Reinf > 01.2026
 
 ---
 
-## 🏛️ ISSQN – Verificação e Recolhimento
+### 🏛️ ISSQN – Verificação e Recolhimento
 
 - A retenção de **ISSQN** é verificada diretamente no **Portal da Prefeitura local**.
 - São gerados:
@@ -79,7 +81,7 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 
 ---
 
-## ✅ Conferência das Retenções
+### ✅ Conferência das Retenções
 
 **Relatório utilizado:**
 
@@ -124,8 +126,7 @@ Antes de iniciar a conferência das retenções no SS, é necessário **gerar as
 
 ---
 
-## 🏛️ Conferência e Geração da Guia de ISSQN  
-**Portal da Prefeitura**
+## 🏛️ Conferência e Geração da Guia de ISSQN - Portal da Prefeitura
 
 Este procedimento descreve as etapas para:
 
