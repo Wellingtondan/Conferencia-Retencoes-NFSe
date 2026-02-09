@@ -1,35 +1,99 @@
-# Conferencia-Retencoes-NFSe
-Conferencia Retenções-NFSe
+# Conferência de Retenções – NFSe
+
+Este documento descreve o procedimento para **conferência das retenções de impostos sobre NFSe**, com foco na validação das informações utilizadas na **EFD-Reinf** e no recolhimento do **ISSQN**.
+
+---
+
+## 📌 Acesso ao PRISMA
+
+**Caminho no sistema:**
+
+- Contabilidade  
+  - Contabilidade / Fiscal  
+    - Retenção de Impostos  
+      - Serviços Tomados
+
+### 📄 Geração do Relatório
+
+- Salvar em PDF  
+- Nome do arquivo: **Relatório Prisma Retidos 01.2026**
+
+### 💾 Local de Salvamento
+
+```
+Servidor: FERROSERVER2 (Y:)
+Administração > Contabilidade > Fiscal
+Pasta Fiscal - Obrigações Fiscais
+FS_Matriz > 2026 > Reinf > 01.2026
+
+```
 
 
-Conferência Retenções - NFSe
+### ℹ️ Observações Importantes
 
-Acesso ao PRISMA
+- O **relatório de retenções para a EFD-Reinf** é salvo **na Matriz**, pois:
+  - A empresa “mãe” centraliza:
+    - **CSRF (CSLL, PIS e COFINS)**
+    - **INSS**
+- Essa centralização garante consistência nas informações enviadas à Reinf.
 
-- Contabilidade - Contabilidade/Fiscal - Retenção de Impostos - Serviços tomados
+---
 
-- Salvar PDF (Relatório Prisma Retidos 01.2026)
+## 🏛️ ISSQN – Verificação e Recolhimento
 
-Servidor FERROSERVER2 (Y:) Administração > Contabilidade > Fiscal  Pasta Fiscal - Obrigações Fiscal - FS_Matriz > 2026 > Reinf > Data (mês da retenção) "01.2026"
+- A retenção de **ISSQN** é verificada diretamente no **Portal da Prefeitura local**.
+- São gerados:
+  - Guia de recolhimento
+  - Relatório de lançamentos (Livro)
 
-O Relatório de retenções para REINF é salvo na matriz devido a ser centralizado na empresa "mãe", na qual é informado a CSRF (CSLL/PIS/COFINS) e INSS.
+### 📂 Arquivamento
 
-Já o ISSQN é verificado a retenção através do Portal da Prefeitura local, e gerada guia para recolhimento e relatório de lançamentos (Livro) e salvo conforme o serviços é respectivo por empresa, e atualmente os serviços tomados estão concentrados apenas na Loja, sendo assim, é verificada a retenção apenas dessa empresa.
+- Os documentos são salvos **conforme a empresa tomadora do serviço**.
+- Atualmente:
+  - Os **serviços tomados estão concentrados apenas na Loja**.
+  - Portanto, a conferência do ISS é realizada **somente para essa empresa**.
 
-Acesso a SS
+---
 
-Antes de conferir as retenções pela SS precisa gerar as informações para contabilidade:
+## 🖥️ Acesso ao SS
 
-- Movimentação - Gera dados p/Livro caixa - Geração - Data (01/01/2026 à 31/01/2026)
+Antes de iniciar a conferência das retenções no SS, é necessário **gerar as informações para a contabilidade**.
 
-- Vencimento até dia 20 de cada mês 
+### ⚙️ Geração de Dados
 
+**Caminho no sistema:**
 
-Conferência:
+- Movimentação  
+  - Gera dados p/ Livro Caixa  
+    - Geração
 
-- Relatórios Auxiliares Mensais - Impostos Retidos (CSLL, COFINS, PIS, IRRF, INSS e ISS)
+**Período:**
 
-> <img width="689" height="376" alt="image" src="https://github.com/user-attachments/assets/f4103718-d627-4dfd-af38-c8bf7dfcdbf9" />
+- De **01/01/2026** a **31/01/2026**
 
+### ⏰ Vencimento
+
+- Impostos com vencimento **até o dia 20 de cada mês**
+
+---
+
+## ✅ Conferência das Retenções
+
+**Relatório utilizado:**
+
+- Relatórios Auxiliares Mensais  
+  - Impostos Retidos:
+    - CSLL  
+    - COFINS  
+    - PIS  
+    - IRRF  
+    - INSS  
+    - ISS
+
+### 📊 Exemplo de Relatório
+
+<img width="689" height="376" alt="Relatório de Impostos Retidos" src="https://github.com/user-attachments/assets/f4103718-d627-4dfd-af38-c8bf7dfcdbf9" />
+
+---
 
 
