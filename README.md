@@ -154,6 +154,19 @@ Este procedimento descreve as etapas para:
 > <img width="795" height="397" alt="image" src="https://github.com/user-attachments/assets/361cee32-ca24-4918-b26e-ee9da02a8e1d" />
 
 
+### 💾 Local de Salvamento
+
+
+```
+Servidor: FERROSERVER2 (Y:)
+Administração > Contabilidade > Fiscal
+Pasta Fiscal - Obrigações Fiscais
+FS_Filial > 2026 > ISSQN > 01.2026
+
+```
+
+
+
 
 
 
