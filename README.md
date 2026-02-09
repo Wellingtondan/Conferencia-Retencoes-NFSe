@@ -165,7 +165,7 @@ FS_Filial > 2026 > ISSQN > 01.2026
 
 ```
 
-
+🖊️***Elaborado pelo colaborador:*** Wellington Daniel
 
 
 
